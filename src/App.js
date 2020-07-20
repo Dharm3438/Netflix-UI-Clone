@@ -5,6 +5,8 @@ import Row from './Row';
 import requests from './requests';
 import Banner from './Banner';
 import Navbar from './Navbar';
+import Footer from './Footer';
+
 
 function App() {
   return (
@@ -29,6 +31,8 @@ function App() {
       <Row title="Horror Movies" url={requests.horror_movies} />
       <Row title="Romantic Movies" url={requests.romance_movies} />
       <Row title="Documentaries" url={requests.documentaries} />
+    
+      <Footer />
     </div>
   );
 }
