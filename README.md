@@ -27,4 +27,4 @@ This project is clone of Netflix UI. It was created using React and CSS. It uses
 
 
 ### Video Demo 
-![](https://github.com/Dharm3438/Netflix-UI-Clone/blob/main/demo.gif?raw=true)
+![](https://github.com/Dharm3438/Netflix-UI-Clone/blob/main/netflix_clone_demo.gif?raw=true)
