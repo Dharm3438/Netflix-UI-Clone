@@ -1,10 +1,7 @@
 # Netflix UI Clone
-
-- Demo: https://netflix-clone-32738.web.app/
-
 This project is clone of Netflix UI. It was created using React and CSS. It uses [The MovieDB Api](https://www.themoviedb.org/documentation/api) to search for movies and display details and also [Movie-Trailer](https://www.npmjs.com/package/movie-trailer) to fetch the trailers of movies. Feel free to contribute!!
 
-
+- Demo: https://netflix-clone-32738.web.app/
 
 ### Tools used:
 - React & React-Context-API
